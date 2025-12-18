@@ -130,28 +130,3 @@ Visit our [documentation site](https://googlecloudplatform.github.io/agent-start
 
 Looking for more examples and resources for Generative AI on Google Cloud? Check out the [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) repository for notebooks, code samples, and more!
 
-## Contributing
-
-Contributions are welcome! See the [Contributing Guide](CONTRIBUTING.md).
-
-## Feedback
-
-We value your input! Your feedback helps us improve this starter pack and make it more useful for the community.
-
-### Getting Help
-
-If you encounter any issues or have specific suggestions, please first consider [raising an issue](https://github.com/GoogleCloudPlatform/generative-ai/issues) on our GitHub repository.
-
-### Share Your Experience
-
-For other types of feedback, or if you'd like to share a positive experience or success story using this starter pack, we'd love to hear from you! You can reach out to us at <a href="mailto:agent-starter-pack@google.com">agent-starter-pack@google.com</a>.
-
-Thank you for your contributions!
-
-## Disclaimer
-
-This repository is for demonstrative purposes only and is not an officially supported Google product.
-
-## Terms of Service
-
-The agent-starter-pack templating CLI and the templates in this starter pack leverage Google Cloud APIs. When you use this starter pack, you'll be deploying resources in your own Google Cloud project and will be responsible for those resources. Please review the [Google Cloud Service Terms](https://cloud.google.com/terms/service-terms) for details on the terms of service associated with these APIs.
